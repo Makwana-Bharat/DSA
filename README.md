@@ -7,10 +7,6 @@
   <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="50px" align="right"/>
 </div>
 <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/borderseparator.gif"/>
-<select>
-  <option>adss</option>
-  <option>dfdfd</option>
-</select>
 <div> 
   <h1>STACK</h1>
   <img src="https://user-images.githubusercontent.com/126388812/221423832-c42b7eed-d348-4489-9dfd-9947a5dfade6.png" />
