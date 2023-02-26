@@ -19,7 +19,7 @@
       
       -Doubly Linked List
       -Animated Stack
- <i>and to use it folowing steps follow..</i>
+ <i>and to use it folowing steps you need to follow..</i>
         
         -Store WINDOWS.H file into INCLUDE folder..
         -check path of Graphics TC\BGI\ OR TURBOC3\BGI\
