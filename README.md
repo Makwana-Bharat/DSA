@@ -12,7 +12,9 @@
 
 <div>
   
-      <h1>STACK</h1>
+  
+      STACK
+  
   
   <img src="https://user-images.githubusercontent.com/126388812/221423832-c42b7eed-d348-4489-9dfd-9947a5dfade6.png" />
 </div>
