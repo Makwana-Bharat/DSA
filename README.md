@@ -15,7 +15,8 @@
  <img src="https://github.com/AJAX-Codder/DSA/blob/main/image-removebg-preview%20(3).png"/>
  
   
-   -->if you want to use this repository then following program are only work in TurboC Compiler Because i use Graphics.h & conio.h header files
+   <i>if you want to use this repository then following program are only work in TurboC Compiler Because i use Graphics.h & conio.h header files</i>
+      
       -Doubly Linked List
       -Animated Stack
       
