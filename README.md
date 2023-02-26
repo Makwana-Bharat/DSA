@@ -17,8 +17,7 @@
   
       STACK
   
-  
-  <img src="https://user-images.githubusercontent.com/126388812/221424239-bd428b9b-2e5a-4755-b437-770c233bda59.png)"/>
+  <img src="https://user-images.githubusercontent.com/126388812/221424239-bd428b9b-2e5a-4755-b437-770c233bda59.png"/>
 
   <img src="https://user-images.githubusercontent.com/126388812/221423832-c42b7eed-d348-4489-9dfd-9947a5dfade6.png" />
 </div>
