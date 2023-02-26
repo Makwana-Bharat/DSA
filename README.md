@@ -11,8 +11,23 @@
 
 ![image](https://user-images.githubusercontent.com/126388812/221423381-f346dff0-d13c-4651-a1a2-e217789cea74.png)
 
+ <br/><br/>
  <img src="https://github.com/AJAX-Codder/DSA/blob/main/image-removebg-preview%20(3).png"/>
  
+  
+   -->if you want to use this repository then following program are only work in TurboC Compiler Because i use Graphics.h & conio.h header files
+      -Doubly Linked List
+      -Animated Stack
+      
+    -and to use it folowing steps follow..
+        
+        -Store WINDOWS.H file into INCLUDE folder..
+        -check path of Graphics TC\BGI\ OR TURBOC3\BGI\
+        -Pest This path in WINDOWS.H file where TURBOC3\BGI\ writen
+        -in TurboC to hold Console use last line as a getch()
+    
+   -->Other program Simply download and run anywhere...
+    
 <br/>
 <div>
   
