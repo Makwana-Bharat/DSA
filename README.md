@@ -3,7 +3,7 @@
 ![image](https://github.com/godkingjay/godkingjay/blob/master/assets/borderseparator.gif)
 <div align="center">
   <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="50px" align="left"/>
-  <span align="middle"><big><strong>DATA STRUCTURE & ALGORITHMS<strong></big></span>
+  <span align="middle"><strong>DATA STRUCTURE & ALGORITHMS<strong></span>
   <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="50px" align="right"/>
 </div>
 <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/borderseparator.gif"/>
