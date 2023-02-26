@@ -25,8 +25,7 @@
         -check path of Graphics TC\BGI\ OR TURBOC3\BGI\
         -Pest This path in WINDOWS.H file where TURBOC3\BGI\ writen
         -in TurboC to hold Console use last line as a getch()
-    
-    <i>Other program Simply download and run anywhere...</i>
+  <i>Other program Simply download and run anywhere...</i>
     
 <br/>
 <div>
