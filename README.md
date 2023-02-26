@@ -8,8 +8,7 @@
 </div>
 <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/borderseparator.gif"/>
 
- <hr/>
 <div align="center"> 
   <h1>STACK</h1>
-  ![image](https://user-images.githubusercontent.com/126388812/221423832-c42b7eed-d348-4489-9dfd-9947a5dfade6.png)
+  <img src="https://user-images.githubusercontent.com/126388812/221423832-c42b7eed-d348-4489-9dfd-9947a5dfade6.png" />
 </div>
