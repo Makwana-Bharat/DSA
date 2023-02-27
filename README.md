@@ -15,7 +15,7 @@
  <img src="https://github.com/AJAX-Codder/DSA/blob/main/image-removebg-preview%20(3).png"/>
  
   
-   <i>if you want to use this repository then following program are only work in TurboC Compiler Because i use Graphics.h & conio.h header files <b>To See which type of graphics i created scroll Bellow</b></i>
+   <i>if you want to use this repository then following program are only work in TurboC Compiler Because i use Graphics.h & conio.h header files <b>To See which type of graphics i created scroll Bellow Upto Doubly Linked List Section</b></i>
       
       -Doubly Linked List
       -Animated Stack
