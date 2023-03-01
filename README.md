@@ -51,6 +51,7 @@
   <img src="https://user-images.githubusercontent.com/126388812/221424239-bd428b9b-2e5a-4755-b437-770c233bda59.png"/>
     
 </div>
+   
     GRAPHICAL DOUBLY LINKED LIST
 
 ![Welcome_Screen](https://user-images.githubusercontent.com/126388812/222220779-0f0ff929-4f95-4b14-8e91-c3caf869076c.png)
