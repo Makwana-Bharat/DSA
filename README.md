@@ -13,7 +13,7 @@
 
  <br/><br/>
  <img src="https://github.com/AJAX-Codder/DSA/blob/main/image-removebg-preview%20(3).png"/>
- 
+
   
    <i>if you want to use this repository then following program are only work in TurboC Compiler Because i use Graphics.h & conio.h header files <b>To See which type of graphics i created scroll Bellow Upto Doubly Linked List Section</b></i>
       
@@ -38,6 +38,8 @@
     </i></small>
   <br/>
   <img src="https://user-images.githubusercontent.com/126388812/221423832-c42b7eed-d348-4489-9dfd-9947a5dfade6.png" />
+   ![image](https://user-images.githubusercontent.com/126388812/222108721-c332b148-79a9-4ecc-a88c-4b1e041e94d7.png)
+
   <h3>STACK OPERATIONS</h3>
   
   
