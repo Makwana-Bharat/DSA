@@ -8,6 +8,17 @@
     
 <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/borderseparator.gif"/>
 
+   
+    GRAPHICAL
+![Welcome_Screen](https://user-images.githubusercontent.com/126388812/222220779-0f0ff929-4f95-4b14-8e91-c3caf869076c.png)
+![Menu](https://user-images.githubusercontent.com/126388812/222221096-fec1c8da-d69d-48cc-bf06-a57ed248b6c9.png)
+![Empt](https://user-images.githubusercontent.com/126388812/222221162-6e316e71-c3b7-49ff-801a-552f57df92d6.png)
+![Insert](https://user-images.githubusercontent.com/126388812/222221208-1cd1ae5e-3286-4bba-9a08-d3eea457f064.png)
+![Rec](https://user-images.githubusercontent.com/126388812/222221256-f5f0dee1-4807-4466-a1c8-11b6b334a5e9.png)
+![Pop](https://user-images.githubusercontent.com/126388812/222221287-f415f623-15eb-461b-bb19-848c4c11a53b.png)
+![Delete](https://user-images.githubusercontent.com/126388812/222221318-32dcfe9d-de42-4198-86ab-61e97516f064.png)
+![Thank](https://user-images.githubusercontent.com/126388812/222221335-840d8f10-691d-45f8-a478-60620f8c5751.png)
+
 
 ![image](https://user-images.githubusercontent.com/126388812/221423381-f346dff0-d13c-4651-a1a2-e217789cea74.png)
 
@@ -51,15 +62,3 @@
   <img src="https://user-images.githubusercontent.com/126388812/221424239-bd428b9b-2e5a-4755-b437-770c233bda59.png"/>
     
 </div>
-   
-    GRAPHICAL DOUBLY LINKED LIST
-
-![Welcome_Screen](https://user-images.githubusercontent.com/126388812/222220779-0f0ff929-4f95-4b14-8e91-c3caf869076c.png)
-![Menu](https://user-images.githubusercontent.com/126388812/222221096-fec1c8da-d69d-48cc-bf06-a57ed248b6c9.png)
-![Empt](https://user-images.githubusercontent.com/126388812/222221162-6e316e71-c3b7-49ff-801a-552f57df92d6.png)
-![Insert](https://user-images.githubusercontent.com/126388812/222221208-1cd1ae5e-3286-4bba-9a08-d3eea457f064.png)
-![Rec](https://user-images.githubusercontent.com/126388812/222221256-f5f0dee1-4807-4466-a1c8-11b6b334a5e9.png)
-![Pop](https://user-images.githubusercontent.com/126388812/222221287-f415f623-15eb-461b-bb19-848c4c11a53b.png)
-![Delete](https://user-images.githubusercontent.com/126388812/222221318-32dcfe9d-de42-4198-86ab-61e97516f064.png)
-![Thank](https://user-images.githubusercontent.com/126388812/222221335-840d8f10-691d-45f8-a478-60620f8c5751.png)
-
