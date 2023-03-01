@@ -12,8 +12,6 @@
 ![image](https://user-images.githubusercontent.com/126388812/221423381-f346dff0-d13c-4651-a1a2-e217789cea74.png)
 
  <br/><br/>
- ![image](https://user-images.githubusercontent.com/126388812/222108721-c332b148-79a9-4ecc-a88c-4b1e041e94d7.png)
-
     <img src="https://github.com/AJAX-Codder/DSA/blob/main/image-removebg-preview%20(3).png"/>
 
   
