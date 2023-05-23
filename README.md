@@ -61,7 +61,5 @@
   
   <img src="https://user-images.githubusercontent.com/126388812/221424239-bd428b9b-2e5a-4755-b437-770c233bda59.png"/>
     
-</div>
-
-    
-    <h1>Under Construction 🚧 </h1>
+</div> 
+<h1>Under Construction 🚧 </h1>
